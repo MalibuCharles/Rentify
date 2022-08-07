@@ -12,7 +12,6 @@ export const filterData = [
         { name: 'Daily', value: 'daily' },
         { name: 'Weekly', value: 'weekly' },
         { name: 'Monthly', value: 'monthly' },
-        { name: 'Yearly', value: 'yearly' },
       ],
       placeholder: 'Rent Frequency',
       queryName: 'rentFrequency',

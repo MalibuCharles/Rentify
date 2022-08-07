@@ -26,7 +26,7 @@ const Home = ({ propertiesForSale, propertiesForRent }) => (
       purpose='RENT A HOME'
       title1='Rental Homes for'
       title2='Everyone'
-      desc1=' Explore from Apartments, builder floors, villas'
+      desc1=' Explore from Apartments, penthouse, condo,  villas'
       desc2='and more'
       buttonText='Explore Renting'
       linkName='/search?purpose=for-rent'
